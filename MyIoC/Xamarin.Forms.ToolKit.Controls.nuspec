@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://www.github.com/medalinouira/MyIoC</licenseUrl>
+    <projectUrl>https://www.github.com/medalinouira/MyIoC</projectUrl>
+    <iconUrl>https://github.com/medalinouira/MyIoC/blob/master/MyIoC/ic_myioc.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>IoC.</releaseNotes>
+    <copyright>Copyright (c) Mohamed Ali NOUIRA. All rights reserved.</copyright>
+    <tags>IoC .Net Standard Xamarin Xamarin.Forms WebAPI .NET Core Sweet-MIT</tags>
+  </metadata>
+</package>

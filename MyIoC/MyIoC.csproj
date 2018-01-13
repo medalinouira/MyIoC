@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <title>MyIoC</title>
+    <PackageId>MyIoC</PackageId>
+    <PackageVersion>1.0.1</PackageVersion>
+    <Authors>Mohamed Ali NOUIRA</Authors>
+    <Owners>Mohamed Ali NOUIRA</Owners>
+    <Description>Sample IoC implemention for .Net Standard Projects.</Description>
+    <Summary>Sample IoC implemention for .Net Standard Projects.</Summary>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>IoC</PackageReleaseNotes>
+    <Copyright>Copyright (c) Mohamed Ali NOUIRA. All rights reserved.</Copyright>
+    <PackageTags>IoC .Net Standard Xamarin Xamarin.Forms WebAPI .NET Core Sweet-MIT</PackageTags>
+    <Version>1.0.1</Version>
+    <PackageLicenseUrl>https://www.github.com/medalinouira/MyIoC</PackageLicenseUrl>
+    <PackageProjectUrl>https://www.github.com/medalinouira/MyIoC</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/medalinouira/MyIoC/blob/master/MyIoC/ic_myioc.png?raw=true</PackageIconUrl>
+    <RepositoryUrl>https://www.github.com/medalinouira/MyIoC</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ic_myioc.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="ic_myioc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
